@@ -1,5 +1,6 @@
 package edu.kis.vh.nursery.list;
 
+// TODO: Ta klasa jest nieużywana w projekcie. Należy znaleźć dla niej zastosowanie lub usunąć ją z projektu
 public class IntLinkedList {
     private static final int DEFAULT_EMPTY = -1;
 
